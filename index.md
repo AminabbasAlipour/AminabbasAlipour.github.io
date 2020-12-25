@@ -8,7 +8,7 @@
 + name: Aminabbas
 + last name : Alipour
 + Date of birth : 1988/March/23
-+ I am a trader and IT engineering student
++ I am a trader and IT engineering student at Rey Branch Of Payam-e nour University 
 + location : Rey , Tehran , Iran
 
 
@@ -23,10 +23,10 @@
 
 ---
 + Diploma : Andisheh high school
-+ Bachelor of science : Agriculture Engineering
-_ payam Noor University of Damavand 
++ Bachelor of science : 
+_ Agriculture Engineering (Damavand Branch Of payam-e Noor University)
 
-### language
+###  language
 
 ---
 + Persian
