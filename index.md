@@ -5,11 +5,11 @@
 ### Personal informations
 
 ---
-+ name: Aminabbas
-+ last name : Alipour
++ Name: Aminabbas
++ Last name : Alipour
 + Date of birth : 1988/March/23
 + I am a trader and IT engineering student at Rey Branch Of Payam-e nour University 
-+ location : Rey , Tehran , Iran
++ Location : Rey , Tehran , Iran
 
 
 ### Skill Highlights
@@ -26,7 +26,7 @@
 + Bachelor of science : 
 _ Agriculture Engineering (Damavand Branch Of payam-e Noor University)
 
-###  language
+###  Language
 
 ---
 + Persian
@@ -36,10 +36,10 @@ _ Agriculture Engineering (Damavand Branch Of payam-e Noor University)
 
 ---
 + Studing Scientific books
-+ travel 
-+ playing Ping Pong
++ Travel 
++ Playing Ping Pong
 
-### working Experience
+### Working Experience
 
 ---
 + I am working in Varanegar Group as Software Service Provider
