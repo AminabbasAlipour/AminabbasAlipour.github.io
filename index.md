@@ -1,49 +1,48 @@
 
-### Anahita Taheri
+### Aminabbas Alipour
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ name: Aminabbas
++ last name : Alipour
++ Date of birth : 1988/March/23
 + I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ location : Rey , Tehran , Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Microsoft SQL Server Trainer
+
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Andisheh high school
++ Bachelor of science : Agriculture Engineering
+_ payam Noor University of Damavand 
 
 ### language
 
 ---
 + Persian
-+ English
++ English (Middle)
 
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ Studing Scientific books
 + travel 
-+ playing volleyball
++ playing Ping Pong
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Varanegar Group as Software Service Provider
 
 
 
